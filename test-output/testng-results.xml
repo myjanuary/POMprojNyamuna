@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17543" started-at="2020-08-07T23:36:48Z" finished-at="2020-08-07T23:37:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17543" started-at="2020-08-07T23:36:48Z" finished-at="2020-08-07T23:37:06Z">
+      <class name="POMpkg.Test.Logout">
+        <test-method status="PASS" signature="doLogout()[pri:0, instance:POMpkg.Test.Logout@e874448]" name="doLogout" duration-ms="17497" started-at="2020-08-07T23:36:48Z" finished-at="2020-08-07T23:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:POMpkg.Test.Logout@e874448]" name="testClosure" is-config="true" duration-ms="2187" started-at="2020-08-07T23:37:06Z" finished-at="2020-08-07T23:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- POMpkg.Test.Logout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

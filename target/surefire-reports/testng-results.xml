@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="9" started-at="2020-08-07T22:33:41Z" finished-at="2020-08-07T22:33:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9" started-at="2020-08-07T22:33:41Z" finished-at="2020-08-07T22:33:41Z">
+      <class name="POMpkg.Base.BaseTest">
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:POMpkg.Base.BaseTest@67784306]" name="testClosure" is-config="true" duration-ms="519" started-at="2020-08-07T22:33:41Z" finished-at="2020-08-07T22:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- POMpkg.Base.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
